@@ -1,2 +1,6 @@
-var addElementToBeginningOfArray = ['Boulder', 'Denver', 'New York'];
-addElementToBeginningOfArray.unshift ('Colorado Springs')
+function addElementToBeginningOfArray = (chocolateBars, chocolate) => {
+  var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
+  var chocolate = ['milky way'];
+  chocolateBars.unshift(chocolate);
+  
+}
