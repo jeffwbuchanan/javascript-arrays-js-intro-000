@@ -12,12 +12,12 @@ function destructivelyAddElementToBeginningOfArray (chocolateBars, chocolate){
 function addElementToEndOfArray (chocolateBars, chocolate){
   return [ . . .chocolateBars, chocolate];
 };
-
+/*
 function destructivelyAddElementToEndOfArray (chocolateBars, chocolate){
   chocolateBars.push(chocolate);
   return chocolateBars;
 };
-
+*/
 function accessElementInArray (chocolateBars, [3]){
   return chocolateBars;
 }
